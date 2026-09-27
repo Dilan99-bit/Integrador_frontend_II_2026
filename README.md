@@ -1,0 +1,1 @@
+# Integrador_frontend_II_2026.
